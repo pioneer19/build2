@@ -1,0 +1,3 @@
+version=4
+# uscan --no-download --verbose
+https://download.build2.org/(\d\S+)/ build2-toolchain-(\d\S+)\.tar\.xz
